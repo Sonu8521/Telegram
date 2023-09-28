@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1E2F5B"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+ <com.google.android.material.appbar.AppBarLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical"
+     >
+     <androidx.appcompat.widget.Toolbar
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@color/blue"
+         app:title="Telegram"
+         app:titleTextColor="@color/white"
+         app:navigationIcon="@drawable/baseline_menu_24"
+       />
+     <ImageView
+         android:layout_width="100dp"
+         android:layout_height="30dp"
+         android:layout_marginLeft="280dp"
+         android:layout_marginTop="-50dp"
+         android:src="@drawable/baseline_search_24"
+         />
+
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/sonu3"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="30dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Sonu.."
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/num"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Elizabeth"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/pic"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Susan Lee"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/indian"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Garcia Lewis"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+
+
+
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/man"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Mary Jackson"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/aadmi"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Betty C"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/indian"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Anderson Thomas"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/mmm"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Elizabeth"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/number"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Garcla Lewls"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+     <de.hdodenhof.circleimageview.CircleImageView
+         android:layout_width="45dp"
+         android:layout_height="45dp"
+         android:src="@drawable/indian"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         />
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Anderson Thomas"
+         android:layout_marginLeft="80dp"
+         android:layout_marginTop="-45dp"
+         android:textStyle="bold"
+         />
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="Lorem ipsum dolor amet, consectetur adipiscing elit."
+         android:layout_marginLeft="80dp"
+         android:layout_marginRight="10dp"
+         />
+<Button
+    android:layout_width="50dp"
+    android:layout_height="60dp"
+    android:layout_marginTop="-100dp"
+    android:layout_marginLeft="300dp"
+    android:backgroundTint="@color/blue"
+    />
+     <ImageView
+         android:layout_width="30dp"
+         android:layout_height="30dp"
+         android:src="@drawable/baseline_create_24"
+         android:layout_marginLeft="310dp"
+         android:layout_marginTop="-45dp"
+         />
+
+ </com.google.android.material.appbar.AppBarLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
